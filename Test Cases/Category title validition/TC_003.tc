@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Product name validition</description>
+   <name>TC_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59f037dc-92f0-4415-ba78-c1da2ad27b26</testCaseGuid>
+</TestCaseEntity>
